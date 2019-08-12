@@ -1,6 +1,8 @@
 html2latex
 ==========
 
+convert html to latex
+
 Dependencies
 ------------
 Arch Linux: `# pacman -S python3 python-lxml python-cssutils python-cssselect`
@@ -19,3 +21,5 @@ Usage
 `./example.py --style stylesheet.css --input document.html --output document.tex --input other.xhtml --output other.tex`
 
 Make a copy of `example.py` and modify it.
+
+
